@@ -1,7 +1,8 @@
 ---
 title: 深圳市南山区停车数据分析
 tags: 数据分析
-category: 
+date:   2020-01-12 19:31:29 +0900
+categories: sample
 renderNumberedHeading: true
 grammar_cjkRuby: true
 ---

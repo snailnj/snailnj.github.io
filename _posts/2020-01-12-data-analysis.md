@@ -6,6 +6,8 @@ categories: sample
 renderNumberedHeading: true
 grammar_cjkRuby: true
 ---
+76个停车场的CDF(累积概率分布占用率图)
+![enter description here](./images/cdf.png)
 
 时间特征（节假日）对停车场Inflow/outflow的影响
 ![enter description here](./images/weather.png)
